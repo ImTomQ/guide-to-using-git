@@ -7,7 +7,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/ImTomQ/08-finished.git
+git remote add origin `link https of repository`
 git push -u origin main
 ```
 

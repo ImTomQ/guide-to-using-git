@@ -24,5 +24,4 @@ git add .
 git commit -m "reason for change"
 git push origin main
 
-<image src="https://user-images.githubusercontent.com/54015766/145498996-df182e66-d39c-4939-8159-47f47a8554c6.png" />
-![image](https://user-images.githubusercontent.com/54015766/145498996-df182e66-d39c-4939-8159-47f47a8554c6.png)
+![alt text](https://user-images.githubusercontent.com/54015766/145498996-df182e66-d39c-4939-8159-47f47a8554c6.png)
